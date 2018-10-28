@@ -1,0 +1,29 @@
+
+
+/* 
+Usando padding
+Padding é um espaçamento interno.
+Com o padding podemos colocar espaçamento somente em cima, em baixo, de um lado, do outro ou em tudo ao mesmo tempo.
+*/
+
+.padding-content {
+    background-color: green;
+    color: white;
+    width: 50%;
+    padding: 20px;
+}
+
+/* Usando margin
+O margin também é um espaçamento assim como o padding, 
+a diferença é que o padding é um espaçamento interno já o 
+margin é um espaçamento externo, ou seja, o espaçamento em 
+que o respectivo elemento vai ter em realação ao outro. 
+*/
+
+.margin-content {
+    background-color: red;
+    color: white;
+    width: 50%;
+    padding: 20px;
+    margin-top: 20px;
+}

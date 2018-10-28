@@ -1,0 +1,12 @@
+.content {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    width: 50%;
+    
+}
+
+/* 
+max-width - Define o tamanho maximo de largura. % ou px;
+max-height - Define o tamanho maximo de altura. % ou px; 
+*/

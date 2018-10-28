@@ -1,0 +1,17 @@
+
+
+/* 
+O box-sizing faz com que mesmo incluindo padding, o tamanho total da div não ultrapasse o valor definido em width.
+Ou seja, neste caso, mesmo tendo um padding de 20px, o que faria com que o tamanho total fosse 540, 20 de uma lado mais 20 do outro, o box-sizing mantem os 500px de largura. 
+*/
+
+* {
+    box-sizing: border-box;
+}
+
+.box-sizing-content {
+    background-color: red;
+    color: white;
+    width: 500px;
+    padding: 20px;
+}
