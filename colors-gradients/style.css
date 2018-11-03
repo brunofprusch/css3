@@ -1,0 +1,10 @@
+
+/*
+    Cores definidas diretamente com o nome da cor, em hexadecimal ou em rgb
+*/
+
+.colors {
+    background-color: #ff8000;
+    width: 300px;
+    height: 200px;
+}

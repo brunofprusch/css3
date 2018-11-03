@@ -1,0 +1,14 @@
+
+/*
+    font-family define qual a familia de fonts que o browser deve utilizar
+
+*/
+
+* {font-size: 100%;}
+
+p {
+    font-family: 'Pattaya', sans-serif;
+    font-size: 2.5em;
+    font-weight: bold;
+    font-style: oblique;
+}
